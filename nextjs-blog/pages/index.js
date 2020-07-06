@@ -10,7 +10,7 @@ const IndexPage = () => (
     <div>
       <h2>Company</h2>
       <ul>
-        <a href="#"><li>Vision</li></a>
+        <a href="/Company/vision"><li>Vision</li></a>
         <li>Strategy</li>
         <li>Handbook</li>
         <li>Onboarding</li>
@@ -27,6 +27,13 @@ const IndexPage = () => (
         <li>Support Team</li>
         <li>Engineering</li>
       </ul>
+    </div>
+    <div id="Process">
+      <h2>Employment Process</h2>
+        <li>Getting Paid</li>
+        <li>Requesting Time Off</li>
+        <li>Contract Renewals</li>
+        <li></li>
 
     </div>
   </>
